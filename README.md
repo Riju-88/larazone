@@ -65,12 +65,12 @@
 - Tailwind CSS
 - PHP
 - HTML, CSS, JavaScript
-- Trix Editor (WYSIWYG)
+- Trix Editor (WYSIWYG Editor)
 - Google Login API
 - MySQL
 
 ## Project Demonstration
 
-This project not only showcases technical proficiency in Laravel but also demonstrates the ability to create a dynamic and engaging community platform with intricate features and a well-thought-out moderation system. For more details, refer to the [GitHub repository](https://github.com/Riju-88/complaint-management-system).
+This project not only showcases technical proficiency in Laravel but also demonstrates the ability to create a dynamic and engaging community platform with intricate features and a well-thought-out moderation system. For more details, refer to the [GitHub repository](https://github.com/Riju-88/larazone).
 
 Feel free to explore the live preview [here](https://larazoneconnect.000webhostapp.com).
