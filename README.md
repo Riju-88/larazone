@@ -131,6 +131,18 @@ php artisan key:generate
 php artisan migrate
 ```
 
+<p>10. Start the node server:</p>
+
+```
+npm run dev
+```
+
+<p>11. Start the app:</p>
+
+```
+php artisan serve
+```
+
 <h2>💻 Built with</h2>
 
 Technologies used in the project:
