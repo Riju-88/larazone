@@ -47,28 +47,13 @@ View live demo here: https://larazone.free.nf
     -   Robust search feature for finding content efficiently and quickly.
     -   Advanced filtering options to refine search results.
 
-<<<<<<< Updated upstream
-- Laravel
-- Alpine JS
-- Tailwind CSS
-- PHP
-- HTML, CSS, JavaScript
-- Trix Editor (WYSIWYG Editor)
-- Google Login API
-- MySQL
-=======
 -   **User Interaction and Engagement:**
->>>>>>> Stashed changes
 
     -   Voting system to boost community engagement.
     -   Notification system to keep users updated.
     -   Users can follow specific categories.
 
-<<<<<<< Updated upstream
-This project not only showcases technical proficiency in Laravel but also demonstrates the ability to create a dynamic and engaging community platform with intricate features and a well-thought-out moderation system. For more details, refer to the [GitHub repository](https://github.com/Riju-88/larazone).
-=======
 -   **Authentication and Authorization:**
->>>>>>> Stashed changes
 
     -   Integrated Google login for ease and security.
     -   Role-based access control for authorized features.
