@@ -136,7 +136,6 @@ php artisan migrate
 Technologies used in the project:
 
 -   [Laravel](https://laravel.com/)
--   [Livewire](https://livewire.laravel.com/)
 -   [Alpine JS](https://alpinejs.dev/)
 -   [Tailwind CSS](https://tailwindcss.com/)
 -   [Filament PHP](https://filamentphp.com/)
